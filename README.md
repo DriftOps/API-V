@@ -1,6 +1,6 @@
 ### Projeto de alunos do 5º Semestre de Análise e Desenvolvimento de Sistemas - FATEC Jessen Vidal
 
-> Este projeto é destinado para auxiliar a empresa JJM Log do setor logístico, com integração de seus setores e atividades. Através de um sistema web
+> Este projeto é destinado para auxiliar a empresas no setor logístico, com integração de seus setores e atividades. Através de um sistema web
 
 ## 📖 Índice 
 <p align="center" dir="auto" name="topo">
@@ -167,12 +167,11 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 |    Função    | Nome                       |                     GitHub                       |                    Linkedin                    |
 | :----------: | :-----------------------   | :--------------------------------------------:   | :--------------------------------------------: |
-| Product Owner | Luiz Henrique Souza Silva |    [GitHub](https://github.com/LuizHenrique435) | [Linkedin](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)|
-| Scrum Master  | Felipe Pereira            |    [GitHub](https://github.com/felipereira10)   | [Linkedin](https://www.linkedin.com/in/felipe-pereira-638370172/)|
-|   Dev Team    | Enzo Pereira              |    [GitHub](https://github.com/Enzopereira01)     | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
-|   Dev Team    | Erik Zanetti Ferraz       |    [GitHub](https://github.com/ErikZFerraz)     | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
+| Product Owner | Enzo Pereira              |    [GitHub](https://github.com/Enzopereira01)    | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
+| Scrum Master  | Erik Zanetti Ferraz       |    [GitHub](https://github.com/ErikZFerraz)     | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
 |   Dev Team    | Kalil Pereira             |    [GitHub](https://github.com/kalil004)        | [Linkedin](https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/) |
-
+|   Dev Team    | Luiz Henrique Souza Silva |    [GitHub](https://github.com/LuizHenrique435) | [Linkedin](https://www.linkedin.com/in/luiz-henrique-souza-silva-7b24a9279/)|
+|   Dev Team    | Felipe Pereira            |    [GitHub](https://github.com/felipereira10)   | [Linkedin](https://www.linkedin.com/in/felipe-pereira-638370172/)|
 
 ## 📝 Licença
 <span id="user-content-licença">
