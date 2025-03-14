@@ -1,6 +1,6 @@
 ### Projeto de alunos do 5º Semestre de Análise e Desenvolvimento de Sistemas - FATEC Jessen Vidal
 
-> Este projeto é destinado para auxiliar a empresas no setor logístico, com integração de seus setores e atividades. Através de um sistema web
+> Este projeto é destinado a desenvolver um aplicativo mobile para gerenciar reembolsos de despesas.
 
 ## 📖 Índice 
 <p align="center" dir="auto" name="topo">
