@@ -21,10 +21,10 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-- [x] Kick-off - 12/03 à 06/03
-- [x] 1° Sprint - 09/09 à 29/09
-- [x] 2° Sprint - 30/09 à 20/10
-- [x] 3° Sprint - 21/05 à 10/06
+- [x] Kick-off - 24/02 à 28/02
+- [ ] 1° Sprint - 10/03 à 30/03
+- [ ] 2° Sprint - 07/04 à 27/04
+- [ ] 3° Sprint - 05/05 à 25/05
 
 ---
 
