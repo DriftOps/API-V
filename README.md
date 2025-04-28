@@ -13,10 +13,6 @@
 </p>
 
 ---
-
-## Backlog do Produto - 2024
-<span id="user-content-backlog">
-
 ### Sprints e Datas
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
@@ -120,6 +116,9 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
 ---
 -->
 <div align="center" dir="auto">
+
+## Backlog do Produto - 2024
+<span id="user-content-backlog">
 
 [backlog-Drift-Ops.xlsx](https://github.com/user-attachments/files/17600139/backlog-Drift-Ops.xlsx)
 
