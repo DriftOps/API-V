@@ -22,13 +22,24 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [x] Kick-off - 24/02 à 28/02
-- [ ] 1° Sprint - 10/03 à 30/03
-- [ ] 2° Sprint - 07/04 à 27/04
+- [x] 1° Sprint - 10/03 à 30/03
+- [x] 2° Sprint - 07/04 à 27/04
 - [ ] 3° Sprint - 05/05 à 25/05
 
 ---
 
-### Sprint 1 - Protótipo Navegável [**Conclusão:** 14/03/2025]
+### 📋 Desafio (Problema)
+
+Desenvolvido por alunos do 5º Semestre de Análise e Desenvolvimento de Sistemas da FATEC Jessen Vidal, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
+
+### 👨‍💻 Solução
+
+A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, que permita o controle, monitoramento e aprovação de reembolsos de forma mais transparente e eficiente, tanto para os colaboradores quanto para a organização. O projeto foi desenvolvido para a empresa **GSW**, com a metodologia **Scrum** aplicada durante o desenvolvimento.
+
+---
+
+<details>
+<summary><b>Sprint 1 - Protótipo Navegável [Conclusão: 14/03/2025]</span></b></summary>
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | Requisito do Parceiro | Critério de Aceitação | 
 |------|------------|------------|------------|--------|-----------------------|------------------------|
@@ -36,12 +47,30 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 | 2    | ALTA       | Eu, como usuário, desejo ter guias de acessos rápidos. | 12 | 1 | RF4 | As guias devem estar acessíveis a partir de qualquer tela, permitindo navegação ágil e prática para funcionalidades principais. |
 | 3    | ALTA       | Eu, como colaborador acessando o app pelo celular, desejo visualizar meu perfil e consultar documentos da empresa. | 10 | 1 | RF7 | O perfil deve exibir informações pessoais e documentos essenciais de forma organizada e fácil de acessar. |
 | 4    | MÉDIA      | Eu, como administrador, desejo cadastrar outros usuários (administradores ou colaboradores). | 20 | 2 | RF2 | A tela de cadastro de usuários deve permitir criar e atualizar perfis com diferentes níveis de permissão. |
+</details>
 
-<p align="center" dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
+<details>
+  <summary><b>Sprint 2 - Gestão de Reembolsos de Alimentação e Kilometragem [Conclusão: 27/04/2025]</b></summary>
+
+  | Rank | Prioridade | User Story | Estimativa | Sprint | Requisito do Parceiro | Critério de Aceitação |
+  |------|------------|------------|------------|--------|-----------------------|------------------------|
+  | 5    | ALTA       | Eu, como funcionário, desejo registrar meus gastos com alimentação para reembolso. | 8  | 2 | RF3 | A tela deve permitir o funcionário registrar gastos com alimentação (ex: refeição, lanches) e associar a data e categoria de gasto. |
+  | 6    | ALTA       | Eu, como funcionário, desejo registrar minha kilometragem para reembolso. | 8  | 2 | RF4 | A tela deve permitir o funcionário registrar a distância percorrida, com a data e o motivo da viagem (ex: viagem a trabalho). |
+  | 7    | MÉDIA      | Eu, como administrador, desejo revisar e aprovar os gastos de alimentação e kilometragem dos funcionários. | 10 | 2 | RF5 | O administrador deve ser capaz de visualizar os pedidos de reembolso dos funcionários, incluindo alimentação e kilometragem, e aprovar ou rejeitar com base nos critérios de empresa. |
+  | 8    | ALTA       | Eu, como funcionário, desejo visualizar o histórico de meus gastos e reembolsos aprovados. | 6  | 2 | RF6 | A tela deve exibir um histórico claro dos pedidos de reembolso feitos, com status de cada um (aprovado, pendente, reprovado) e os valores totais. |
+  | 9    | ALTA       | Eu, como usuário, desejo receber notificações sobre o status dos meus pedidos de reembolso. | 5  | 2 | RF7 | O sistema deve enviar notificações por e-mail ou dentro do aplicativo, informando o status de aprovação ou rejeição dos pedidos de reembolso. |
+
+</details>
+
+
+<li>Informações sobre a sprint, objetivos, tarefas, etc.</li>
 
 ---
-<!--
-### Sprint 2 - Acessos e Informações da Empresa [**Conclusão:** 20/10/2024]
+
+<!---
+
+<details>
+<summary><b>Sprint 2 - Acessos e Informações da Empresa [Conclusão: 27/04/2025]</span></b></summary>
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | Requisito do Parceiro | Critério de Aceitação |
 |------|------------|------------|------------|--------|-----------------------|------------------------|
@@ -49,10 +78,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 | 6    | MÉDIA      | Eu, como usuário, desejo cadastrar clientes e veículos. | 6 | 2 | RF1 | A tela de cadastro deve permitir entrada e atualização de informações de clientes e veículos, com validação dos dados inseridos. |
 | 7    | MÉDIA      | Eu, como usuário, quero ter acesso ao controle de reuniões. | 7 | 2 | RF6 | A tela deve exibir a agenda de reuniões, permitindo visualização e criação de eventos, além de notificações de próximos encontros. |
 | 8    | ALTA       | Eu, como usuário, desejo inserir perguntas na interface em linguagem natural para facilitar a interação. | 3 | 2 | RF2 | A interface deve permitir a inserção de perguntas de forma clara e responder com precisão em linguagem natural. |
-
-<p align="center" dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
-
----
+</details>
 
 ### Sprint 3 - Funcionalidades de Informativos e Tutoriais [**Conclusão:** 10/11/2024]
 
@@ -152,6 +178,8 @@ npm start
 ## ✏️ Protótipo
 <span id="user-content-prototipo">
 <p dir="auto">Depois da definição do wireframe, iniciou-se o trabalho de codificação. O protótipo já conta com cores, tipografia e exemplos do resultado de uma busca, proporcionando a experiência esperada que o usuário terá ao manipular o produto final.</p>
+
+Acesse o protótipo no [Figma](https://www.figma.com/design/gIANFxS9JvAvbYGF5Lwd6S/Untitled?node-id=0-1&p=f).
 
 → [Voltar ao topo](#topo)
 
