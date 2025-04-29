@@ -46,7 +46,7 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
 </details>
 
 <details>
-  <summary><b>Sprint 2 - Gestão de Reembolsos de Alimentação e Kilometragem [Conclusão: 27/04/2025]</b></summary>
+  <summary><b>Sprint 2 - Gestão de Reembolsos "Registro de Gastos" [Conclusão: 27/04/2025]</b></summary>
 
   | Rank | Prioridade | User Story | Estimativa | Sprint | Requisito do Parceiro | Critério de Aceitação |
   |------|------------|------------|------------|--------|-----------------------|------------------------|
