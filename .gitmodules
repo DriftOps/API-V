@@ -4,3 +4,6 @@
 [submodule "API-V-back-end"]
 	path = API-V-back-end
 	url = https://github.com/DriftOps/API-V-back-end
+[submodule "API-V-web"]
+	path = API-V-web
+	url = https://github.com/DriftOps/API-V-web
