@@ -20,7 +20,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Kick-off - 24/02 à 28/02
 - [x] 1° Sprint - 10/03 à 30/03
 - [x] 2° Sprint - 07/04 à 27/04
-- [ ] 3° Sprint - 05/05 à 25/05
+- [X] 3° Sprint - 05/05 à 25/05
 
 ---
 
@@ -129,7 +129,7 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
