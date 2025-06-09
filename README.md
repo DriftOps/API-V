@@ -26,11 +26,13 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ### 📋 Desafio (Problema)
 
-Desenvolvido por alunos do 5º Semestre de Análise e Desenvolvimento de Sistemas da FATEC Jessen Vidal, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor **Gerson Penha**, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
 
 ### 👨‍💻 Solução
 
 A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, que permita o controle, monitoramento e aprovação de reembolsos de forma mais transparente e eficiente, tanto para os colaboradores quanto para a organização. O projeto foi desenvolvido para a empresa **GSW**, com a metodologia **Scrum** aplicada durante o desenvolvimento.
+
+<img src="IMG/Gif GSW.gif"/>
 
 ---
 
@@ -58,6 +60,21 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
 
 </details>
 
+<details>
+  <summary><b>Sprint 3 - Gestão de Reembolsos "Banco de Dados e Funcionalidades Avançadas" [Conclusão: 27/05/2025]</b></summary>
+
+  | Rank | Prioridade | User Story | Estimativa | Sprint | Requisito do Parceiro | Critério de Aceitação |
+  |------|------------|------------|------------|--------|-----------------------|------------------------|
+  | 5    | ALTA       | Eu, como funcionário, desejo registrar meus gastos com alimentação para reembolso. | 8  | 3 | RF3 | A tela deve permitir o funcionário registrar gastos com alimentação (ex: refeição, lanches) e associar a data e categoria de gasto. |
+  | 6    | ALTA       | Eu, como funcionário, desejo registrar minha kilometragem para reembolso. | 8  | 3 | RF4 | A tela deve permitir o funcionário registrar a distância percorrida, com a data e o motivo da viagem (ex: viagem a trabalho). |
+  | 7    | ALTA       | Eu, como administrador, desejo revisar e aprovar os gastos de alimentação e kilometragem dos funcionários. | 10 | 3 | RF5 | O administrador deve ser capaz de visualizar os pedidos de reembolso dos funcionários, incluindo alimentação e kilometragem, e aprovar ou rejeitar com base nos critérios de empresa. |
+  | 8    | ALTA       | Eu, como funcionário, desejo visualizar o histórico de meus gastos e reembolsos aprovados. | 6  | 3 | RF6 | A tela deve exibir um histórico claro dos pedidos de reembolso feitos, com status de cada um (aprovado, pendente, reprovado) e os valores totais. |
+  | 9    | ALTA       | Eu, como usuário, desejo receber notificações sobre o status dos meus pedidos de reembolso. | 5  | 3 | RF7 | O sistema deve enviar notificações por e-mail ou dentro do aplicativo, informando o status de aprovação ou rejeição dos pedidos de reembolso. |
+  | 10   | ALTA       | Eu, como funcionário, desejo fazer upload das minhas notas fiscais de reembolso diretamente pela câmera do celular. | 8  | 3 | RF8 | A tela deve permitir o envio de fotos das notas fiscais por meio da câmera do celular, associando automaticamente à categoria de gasto correspondente. |
+  | 11   | ALTA       | Eu, como administrador, desejo aprovar ou rejeitar os pedidos de reembolso em uma tela separada para web e mobile. | 10 | 3 | RF9 | O administrador deve ter uma interface de aprovação de reembolsos otimizada para web e mobile, com funcionalidade completa de visualização e decisão (aprovar/rejeitar). |
+  | 12   | ALTA       | Eu, como usuário, desejo que todos os dados sejam armazenados corretamente em um banco de dados funcional. | 8  | 3 | RF10 | O sistema deve armazenar todos os dados dos gastos e reembolsos em um banco de dados seguro e funcional, garantindo integridade e fácil acesso às informações. |
+
+</details>
 
 <li>Informações sobre a sprint, objetivos, tarefas, etc.</li>
 
