@@ -2,7 +2,11 @@
 
 > Este projeto é destinado a desenvolver um aplicativo mobile para gerenciar reembolsos de despesas.
 
+<div align="center" dir="auto">
+
 ## 📖 Índice 
+</div>
+
 <p align="center" dir="auto" name="topo">
     <a href="#tecnologias">Tecnologias</a> | 
     <a href="#backlog">Backlog</a> | 
@@ -13,14 +17,21 @@
 </p>
 
 ---
-### Sprints e Datas
+<div align="center" dir="auto">
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
+### 🗓️ Sprints e Datas
 
-- [x] Kick-off - 24/02 à 28/02
-- [x] 1° Sprint - 10/03 à 30/03
-- [x] 2° Sprint - 07/04 à 27/04
-- [X] 3° Sprint - 05/05 à 25/05
+| --- | FASE      | INÍCIO     | FIM        |
+| --- | --------- | ---------- | ---------- |
+| [X] | Kick-off  | 24/02/2025 | 28/02/2025 |
+| [X] | Sprint 1  | 10/03/2025 | 30/03/2025 |
+| [X] | Planning  | 31/03/2025 | 04/04/2025 |
+| [X] | Sprint 2  | 07/04/2025 | 27/04/2025 |
+| [X] | Planning  | 28/04/2025 | 02/05/2025 |
+| [X] | Sprint 3  | 05/05/2025 | 25/05/2025 |
+| [X] | Review    | 26/05/2025 | 28/05/2025 |
+
+</div>
 
 ---
 
