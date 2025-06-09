@@ -2,7 +2,7 @@
 
 > Este projeto é destinado a desenvolver um aplicativo mobile para gerenciar reembolsos de despesas.
 
-<div align="center" dir="auto">
+
 
 ## 📖 Índice 
 </div>
@@ -17,7 +17,18 @@
 </p>
 
 ---
-<div align="center" dir="auto">
+### 📋 Desafio (Problema)
+
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor **Gerson Penha**, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
+
+### 👨‍💻 Solução
+
+A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, que permita o controle, monitoramento e aprovação de reembolsos de forma mais transparente e eficiente, tanto para os colaboradores quanto para a organização. O projeto foi desenvolvido para a empresa **GSW**, com a metodologia **Scrum** aplicada durante o desenvolvimento.
+
+<img src="IMG/Gif GSW.gif"/>
+
+---
+
 
 ### 🗓️ Sprints e Datas
 
@@ -35,20 +46,13 @@
 
 ---
 
-### 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor **Gerson Penha**, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
+## User Stories
 
-### 👨‍💻 Solução
-
-A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, que permita o controle, monitoramento e aprovação de reembolsos de forma mais transparente e eficiente, tanto para os colaboradores quanto para a organização. O projeto foi desenvolvido para a empresa **GSW**, com a metodologia **Scrum** aplicada durante o desenvolvimento.
-
-<img src="IMG/Gif GSW.gif"/>
-
----
+</div>
 
 <details>
-<summary><b>Sprint 1 - Protótipo Navegável [Conclusão: 14/03/2025]</span></b></summary>
+<summary><b>Sprint 1 - Protótipo Navegável [Conclusão: 30/03/2025]</span></b></summary>
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | Requisito do Parceiro | Critério de Aceitação | 
 |------|------------|------------|------------|--------|-----------------------|------------------------|
@@ -72,7 +76,7 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
 </details>
 
 <details>
-  <summary><b>Sprint 3 - Gestão de Reembolsos "Banco de Dados e Funcionalidades Avançadas" [Conclusão: 27/05/2025]</b></summary>
+  <summary><b>Sprint 3 - Gestão de Reembolsos "Banco de Dados e Funcionalidades Avançadas" [Conclusão: 28/05/2025]</b></summary>
 
   | Rank | Prioridade | User Story | Estimativa | Sprint | Requisito do Parceiro | Critério de Aceitação |
   |------|------------|------------|------------|--------|-----------------------|------------------------|
@@ -143,16 +147,16 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
 
 ---
 -->
-<div align="center" dir="auto">
 
-## Backlog do Produto - 2024
+
+## Backlog do Produto - 2025
 <span id="user-content-backlog">
 
 [backlog-Drift-Ops.xlsx](https://github.com/user-attachments/files/17600139/backlog-Drift-Ops.xlsx)
 
 ## 💻 Tecnologias
 <span id="user-content-tecnologias">
-<div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
@@ -165,6 +169,7 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+
 </div>
 
 ###
@@ -198,7 +203,7 @@ npm start
 <!-- Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus! -->
 <p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
 <span id="user-content-levantamento">
-<h2 align="center" dir="auto"><a id="user-content-pencil-levantamento-de-requisitos" class="anchor" aria-hidden="true" href="#pencil-levantamento-de-requisitos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Levantamento de Requisitos</h2>
+<h2 align="left" dir="auto"><a id="user-content-pencil-levantamento-de-requisitos" class="anchor" aria-hidden="true" href="#pencil-levantamento-de-requisitos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Levantamento de Requisitos</h2>
 <p dir="auto">Antes de desenvolver o projeto, foi preciso denifir os desejos do cliente, organizando-os de acordo com suas prioridades e documentando com técnicas de Engenharia de Software. Para este levantamento de requisitos, o Product Owner do grupo esteve em contato constante com o cliente, questionando suas vontades e necessidades a fim de esculpir um plano de ação que satisfazesse seus pedidos, na medida do possível. Dessa forma, foi criado um backlog do produto, contendo suas funcionalidades e características principais, além de sprint backlogs e user stories, que são itens complementares para auxiliar a organização da equipe em relação às tarefas a serem desenvolvidas.</p>
 
 
@@ -244,4 +249,4 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 
 </div>
 
-<p align="center" dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
+<p align="left" dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
